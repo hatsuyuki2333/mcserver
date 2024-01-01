@@ -1,0 +1,11 @@
+[15:26:08] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.15.3
+[15:26:08] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[15:26:08] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.15.3
+	   \-- mixinextras 0.3.2
+	- java 21
+	- minecraft 1.18.2
+[15:26:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/jdk-21.0.1/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[15:26:26] [main/ERROR]: Failed to load properties from file: server.properties
+[15:26:27] [main/WARN]: Failed to load eula.txt
+[15:26:27] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
